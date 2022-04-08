@@ -1199,11 +1199,12 @@ a:focus {
 .item-boxes h4 {
   font-size: 18px;
   font-weight: 500;
-  margin-bottom: 15px;
+  margin-bottom: 5px;
 }
 
 .item-boxes p {
   margin: 0;
+  text-align: left;
 }
 
 .item-boxes:hover {
@@ -1229,7 +1230,7 @@ a:focus {
 }
 
 .services-item .icon {
-  margin-bottom: 20px;
+  margin-bottom: 10px;
 }
 
 .services-item .icon i {
