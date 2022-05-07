@@ -744,7 +744,7 @@ a:focus {
 .service {
   position: relative;
   width: 100%;
-  padding: 45px 0 15px 0;
+  padding: 25px 0 0px 0;
 }
 
 .service .service-item {
@@ -1088,7 +1088,7 @@ a:focus {
   bottom: 0;
   left: 0;
   background: #0796fe;
-  transition: 0.3s;
+  transition: 0.10s;
 }
 
 .testimonial .testimonial-item:hover h2::before {
@@ -1120,7 +1120,7 @@ a:focus {
   justify-content: center;
   color: #0796fe;
   font-size: 25px;
-  transition: 0.3s;
+  transition: 0.10s;
 }
 
 .testimonial .owl-nav .owl-prev {
@@ -1144,7 +1144,7 @@ a:focus {
   height: 3px;
   top: 11px;
   background: #0796fe;
-  transition: 0.3s;
+  transition: 0.10s;
 }
 
 .testimonial .owl-nav .owl-prev::after {
