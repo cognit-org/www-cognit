@@ -1653,6 +1653,11 @@ a:focus {
   list-style-type: none;
 }
 
+#enroll-button{
+  color: white;
+  background-color: #077dd4;
+}
+
 /*******************************/
 
 /******* Single Page CSS *******/
